@@ -2,6 +2,7 @@
 
 export(compare_df)
 export(create_output_table)
+export(create_sparse_output)
 export(create_wide_output)
 export(view_html)
 importFrom(data.table,":=")

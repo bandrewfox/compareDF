@@ -9,8 +9,8 @@ create_output_table(
   output_type = "html",
   file_name = NULL,
   limit = 100,
-  color_scheme = c(addition = "#52854C", removal = "#FC4E07", unchanged_cell =
-    "#999999", unchanged_row = "#293352"),
+  color_scheme = c(addition = "#52854C", removal = "#FC4E07", unchanged_cell = "#999999",
+    unchanged_row = "#293352"),
   headers = NULL,
   change_col_name = "chng_type",
   group_col_name = "grp"
